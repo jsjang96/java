@@ -18,7 +18,7 @@ public class ClassStart1 {
 		System.out.println("이름: "+ student1Name + "나이:" + student1Age+" 성적:" + student1Grade);
 		System.out.println("이름: "+ student2Name + "나이:" + student2Age+" 성적:" + student2Grade);
 		System.out.println("이름: "+ student3Name + "나이:" + student3Age+" 성적:" + student3Grade);
-
+		System.out.println("테스트용입니다.");
 	}
 
 }
