@@ -11,5 +11,6 @@ public class ProductOrderMain2 {
 		productOrder.productName = "두부";
 		productOrder.price = 2000;
 		productOrder.quantity = 3;
+		return null;
 	}
 }
